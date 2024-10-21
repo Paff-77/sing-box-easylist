@@ -1,8 +1,12 @@
 {
   "configs": [
     {
-      "name": "BlueSkyXN AdGuardHomeRules",
-      "url": "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt"
+      "name":"AWAvenue-Ads-Rule.txt",
+      "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+    },    
+    {
+      "name": "BlueSkyXN AdGuardHomeRules",  
+      "url": "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt"  
     },    
     {
       "name": "EasyList",
